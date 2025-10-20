@@ -1,4 +1,4 @@
-## Español 🇪🇸 :
+## Español 🇪🇸 :Spain: :
 
 Este proyecto trataba de crear una aplicación web para ayudar a mejorar la sostenibilidad y automatizar procesos en una empresa ficticia llamada ChemSecure.
 
