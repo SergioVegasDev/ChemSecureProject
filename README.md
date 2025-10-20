@@ -17,4 +17,6 @@ The company collected chemical waste from various factories and managed its disp
 As a developer, I decided to focus on automating alerts for waste tanks when they reach a certain capacity.
 
 This allowed the transport company to better organize pickup routes, reducing fuel consumption.
+
+
 https://github.com/user-attachments/assets/fa465590-95a0-4810-88c2-bcd72c5ff997
