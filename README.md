@@ -1,6 +1,4 @@
-Bibliografia:
-- https://sites.google.com/itb.cat/asixc-1708-sos-apunts/index [14/05/2025]
-- https://www.barcelona.cat/es/vivir-en-bcn/medio-ambiente-y-sostenibilidad [14/05/2025]
-- https://www.instrumart.com/products/42495/icon-levelpro-100-series-level-transmittersensor [16/05/2025]
-- https://iconprocon.com/spanish_blogs/sensores-de-nivel-de-liquido-para-tanques-de-almacenamiento-de-productos-quimicos-la-clave-para-operaciones-seguras-y-eficientes/ [16/05/2025]
-- https://learn.microsoft.com/en-us/azure/api-management/get-started-create-service-instance [27/05/2025]
+Este projecto trataba de crear una apliación web para ayudar a mejorar las sostenibilidad i automatizar procesos en un empresa ficticia llamada ChemSecure.
+La empresa se encargaba de recoger residuos quimicos de diferentes fabricas y de gestionarlos. 
+Como desarollador decidi centrarme en la parte de automatizar los avisos de los tanques de residuos cuando llegan a cierta capacidad.
+Para que la empresa de transporte pudiese organizar mejor las rutas de recogida,  mejorando el consumo de combustible.
