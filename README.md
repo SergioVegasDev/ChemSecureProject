@@ -1,4 +1,4 @@
-Español:
+## Español 🇪🇸 :
 
 Este proyecto trataba de crear una aplicación web para ayudar a mejorar la sostenibilidad y automatizar procesos en una empresa ficticia llamada ChemSecure.
 
@@ -8,7 +8,7 @@ Como desarrollador, decidí centrarme en la parte de automatizar los avisos de l
 
 Para que la empresa de transporte pudiese organizar mejor las rutas de recogida, mejorando el consumo de combustible.
 
-English;
+## English 🇬🇧 :
 
 This project involved creating a web application to help improve sustainability and automate processes for a fictional company called ChemSecure.
 
